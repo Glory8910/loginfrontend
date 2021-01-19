@@ -1,0 +1,1 @@
+newcredentials.token = localStorage.getItem('token');
